@@ -1,1 +1,9 @@
-{"functions":{"source":"functions"}}
+const firebaseConfig = {
+  apiKey: "AIzaSyABK1oRrAxPmv2Do4QQOHx1BEGlwuuDOFQ",
+  authDomain: "rickandmortycountdown.firebaseapp.com",
+  projectId: "rickandmortycountdown",
+  storageBucket: "rickandmortycountdown.firebasestorage.app",
+  messagingSenderId: "965118452171",
+  appId: "1:965118452171:web:0e55294e2cee2bd608964e",
+  measurementId: "G-B7X7TLK3WB"
+};
